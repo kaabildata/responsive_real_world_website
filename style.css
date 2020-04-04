@@ -5,14 +5,13 @@ body{
 }
 h1,h2{
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: dodgerblue;
 }
 h1{
-    color: blue;
     font-size: 40px;
    }
 
 h2{
-    color: blue;
     font-size: 25px;
 }
 
@@ -20,4 +19,11 @@ p{
     text-align: justify;
     
 }
-    
+
+.main-text{
+    text-align: justify;
+}
+
+.Author-text{
+    font-size: 22px;
+}
